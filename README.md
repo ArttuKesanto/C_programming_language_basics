@@ -9,7 +9,18 @@ Some of the tasks contain Finnish, as this is the only way in which Viope accept
 
 # Tasks in this repository
 
-First Header | Second Header
+Module | Tasks
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Basics_1 | Tasks completed: 1
+Basics 2 | Tasks completed: 2
+Basics_3 | Tasks completed: 2
+Basics 4 | Tasks completed: 2
+Basics_5 | Tasks completed: 3
+Basics 6 | Tasks completed: 3
+Basics_7 | Tasks completed: 3
+Basics 8 | Tasks completed: 2
+Basics_9 | Tasks completed: 1
+Basics 10 | Tasks completed: 2
+Basics_11 | Tasks completed: 3
+Basics 12 | Tasks completed: 2
+Basics_13 | Tasks completed: 2
