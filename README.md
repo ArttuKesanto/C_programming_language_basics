@@ -1,3 +1,12 @@
+![GitHub contributors](https://img.shields.io/github/contributors/ArttuKesanto/C_programming_language_basics?logo=GitHub&style=flat-square)
+<br></br>
+![GitHub last commit](https://img.shields.io/github/last-commit/ArttuKesanto/C_programming_language_basics?logo=github&style=social)
+<br></br>
+![GitHub top language](https://img.shields.io/github/languages/top/ArttuKesanto/C_programming_language_basics?logo=JavaScript&style=for-the-badge)
+<br></br>
+![GitHub](https://img.shields.io/github/license/ArttuKesanto/C_programming_language_basics?logo=github&style=for-the-badge)
+<br></br>
+
 # c_programming_language_basics
 This repository consists of work that covers the basics of programming in C. Technologies used are Visual Studio Code (a popular code editor) and compilers for C, specifically gcc (with Apple's command line developer tools). Course is part of Metropolia University of Applied Science's basic courses in relation to programming.
 
