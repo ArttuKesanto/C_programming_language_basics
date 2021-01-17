@@ -2,7 +2,7 @@
 <br></br>
 ![GitHub last commit](https://img.shields.io/github/last-commit/ArttuKesanto/C_programming_language_basics?logo=github&style=social)
 <br></br>
-![GitHub top language](https://img.shields.io/github/languages/top/ArttuKesanto/C_programming_language_basics?logo=Ct&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/ArttuKesanto/C_programming_language_basics?logo=c&style=for-the-badge)
 <br></br>
 ![GitHub](https://img.shields.io/github/license/ArttuKesanto/C_programming_language_basics?logo=Github&style=plastic)
 <br></br>
