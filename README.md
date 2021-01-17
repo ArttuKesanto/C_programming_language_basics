@@ -4,7 +4,7 @@
 <br></br>
 ![GitHub top language](https://img.shields.io/github/languages/top/ArttuKesanto/C_programming_language_basics?logo=c&style=for-the-badge)
 <br></br>
-![GitHub](https://img.shields.io/github/license/ArttuKesanto/C_programming_language_basics?logo=Github&?style=for-the-badge&logo=appveyor)
+![GitHub](https://img.shields.io/github/license/ArttuKesanto/C_programming_language_basics?logo=Github&?style=for-the-badge)
 <br></br>
 
 # c_programming_language_basics
